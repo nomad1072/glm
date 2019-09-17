@@ -1,3 +1,3 @@
 # glm
 
-# My Solutions to cracking the coding interview in Python!
+My Solutions to cracking the coding interview in Python!
