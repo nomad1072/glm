@@ -1,0 +1,1 @@
+# A typical fast pointer slow pointer approach
